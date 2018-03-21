@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Something Newsworthy"
-date:       2018-03-21 02:57:19 +0000
+date:       2018-03-20 22:57:20 -0400
 permalink:  something_newsworthy
 ---
 
